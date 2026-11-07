@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sol Macro</string>
+    <string name="svc_desc">Performs the screen taps you set up (fishing and selling) while Roblox is open, and can look at screen colors on your device to spot the bite sign. It shows floating START, SET, COLOR and TEST buttons and does not send any data anywhere.</string>
+</resources>
